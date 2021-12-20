@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\CollectionTest::it_wraps_an_array_of_items":5,"Tests\\CollectionTest::it_mimics_an_array":4,"Tests\\CollectionTest::it_can_be_iterated":5},"times":{"Tests\\CollectionTest::it_wraps_an_array_of_items":0.003,"Tests\\CollectionTest::it_mimics_an_array":0.092,"Tests\\CollectionTest::it_can_be_iterated":0.004}}

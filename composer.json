@@ -1,0 +1,19 @@
+{
+    "name": "adrian.lux/collections",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Tests\\": "tests/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrian",
+            "email": "adorian@akita-itlabo.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
