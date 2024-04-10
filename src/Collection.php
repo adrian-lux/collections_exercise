@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace AdrianLux;
 use ArrayAccess;
 use Countable;
 use Exception;
