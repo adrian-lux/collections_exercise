@@ -2,7 +2,7 @@
 
 namespace Tests;
 
-use App\Collection;
+use AdrianLux\Collection;
 use PHPUnit\Framework\TestCase;
 
 class CollectionTest extends  TestCase
